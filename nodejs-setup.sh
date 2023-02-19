@@ -17,3 +17,5 @@ echo "Node version"
 node -v
 echo "NPM version"
 npm -v
+echo "NVM version"
+nvm -v
